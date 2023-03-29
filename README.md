@@ -9,8 +9,8 @@
 	Você entrega o nome de uma cidade qualquer, e ele te retorna:
 	- Nome da Cidade;
 	- Sigla do país;
-	- Tempo;
-	- Descrição do tempo;
+	- Clima;
+	- Descrição do clima;
 	- Temperatura;
 	- Temperatura Mínima;
 	- Temperatura Máxima.
